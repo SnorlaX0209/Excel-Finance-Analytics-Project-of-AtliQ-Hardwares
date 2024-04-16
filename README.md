@@ -5,7 +5,7 @@
    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/SnorlaX0209/Excel-Finance-Analytics-Project-of-AtliQ-Hardwares)
   
    **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/SnorlaX0209/Excel-Finance-Analytics-Project-of-AtliQ-Hardwares)
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
