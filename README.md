@@ -1,28 +1,28 @@
-# Finance Report:
+## Finance Report :
 
-- **Problem Statement:**
-
-  AtliǪ Hardwares, a prominent player in the hardware industry, excels in crafting top-tier PCs, printers, mice, and computers. With a formidable global presence, the company now confronts 
-  the pivotal task of enhancing sales optimization and bolstering net gross margins.
 - **Project Objective:**
-  
-  This project delves into the analysis of a vast dataset containing over half a million records of unorganized sales data, necessitating extensive Extract, Transform, Load (ETL) efforts. The primary objective is to unearth strategic insights that will empower AtliQ Hardwares to make informed decisions and effectively track key performance indicators (KPIs). The ultimate aim is to drive substantial improvements in the company's performance, particularly in net sales and net gross margin, in the years ahead.
-- **Project Significance:**
-  
-  Unlocking the potential within this dataset is paramount to maximizing AtliǪ Hardwares' sales and profitability. Through harnessing the power of data analytics, my goal is to convert challenges into opportunities and facilitate data-driven decision-making. Join me on this transformative journey to unearth the hidden treasures within AtliǪ Hardwares' sales and finance data, thereby enhancing their global market presence and financial health. Welcome to the era of data-driven transformation!
-- **Project Overview:**
-  - **Financial Analysis and Reporting:**
-  
-     - **Objective:**
-     
-         I created detailed Profit and Loss (P&L) reports categorized by Fiscal Year and Months, providing a comprehensive overview of financial performance. Additionally, I produced P&L reports segmented by Markets, enabling targeted analysis and strategic decision-making.
-     - **Achievements:**
-       
-        I conducted a comprehensive evaluation of financial performance, facilitating informed decision-making processes. Through the creation of clear and insightful reports, I supported effective communication with stakeholders, ensuring transparency and alignment of goals. Additionally, I contributed to benchmarking against industry peers, establishing a solid foundation for budgeting and forecasting initiatives.
-- **Technical and Soft-Skills:**
-     - **Technical Skills:**
-       
-       I possess proficiency in ETL methodology (Extract, Transform, Load), with skills in generating date tables using Power Query. My experience includes deriving fiscal months and quarters, establishing data model relationships with Power Pivot, and adeptly incorporating supplementary data into existing data models. Additionally, I am skilled in using DAX to create calculated columns, enhancing data analysis capabilities.
-     - **Soft-Skills:**
-  
-       I have a refined understanding of Sales and Finance Reports and am capable of designing user-centric reports with empathy in mind. My experience includes optimizing report generation through meticulous fine-tuning and developing a systematic approach to devising a report-building plan.
+
+    **1.** Profit and Loss (P&L) Reports by Fiscal Year & Months: Create detailed Profit and Loss (P&L) reports for analysis and decision-making, segmented by fiscal year.(https://github.com/SnorlaX0209/Excel-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%26L%20by%20Fiscal%20Year%20Report.pdf). And months for deeper insights into financial performance trends.(https://github.com/SnorlaX0209/Excel-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%26L%20by%20Months%20Report.pdf)
+
+   **2.** Profit and Loss (P&L) Reports by Markets: Generate Profit and Loss (P&L) reports segmented by markets to analyze performance across different geographical regions.(https://github.com/SnorlaX0209/Excel-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Markets%20Report.pdf)
+
+- **Purpose of Finance Analytics:** Finance analytics serves to evaluate the financial performance of a business, supporting decision-making processes and facilitating effective communication with stakeholders.
+
+- **Importance of Analyzing Finance Data:** Analyzing finance data is crucial for benchmarking against industry peers and previous periods, as well as laying the foundation for budgeting and forecasting activities.
+
+- **Role of Finance Reports:** Finance reports play a pivotal role in aligning financial planning with strategic goals and instilling confidence in the organization's financial outlook through transparent and comprehensive analysis.
+
+## Technical Skills:
+
+- [x]	ETL Methodology: Proficient in Extract, Transform, Load (ETL) processes for data integration and manipulation.
+- [x]	Power Query: Skilled in generating date tables and manipulating data using Power Query.
+- [x]	Power Pivot: Experienced in establishing data model relationships and enhancing data analysis using Power Pivot.
+- [x]	Data Model Enhancement: Proficient in incorporating supplementary data into existing data models for comprehensive analysis.
+- [x] DAX: Utilization of Data Analysis Expressions (DAX) for creating calculated columns and measures in Power BI and Excel.
+
+## Soft Skills:
+
+- [x] Sales & Finance Reports: Refined understanding of Sales and Finance Reports, including the ability to interpret and analyze complex financial data.
+- [x] User-centric Design: Skillful in designing reports with a user-centric approach, considering the needs and perspectives of the end-users.
+- [x] Report Generation Optimization: Experienced in optimizing report generation processes through meticulous fine-tuning, enhancing efficiency and accuracy.
+- [x] Systematic Approach: Proficient in developing a systematic approach to devising a report-building plan, ensuring consistency and effectiveness in reporting practices.
